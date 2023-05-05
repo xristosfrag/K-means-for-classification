@@ -5,7 +5,7 @@ This repository contains an implementation of the k-means clustering algorithm d
 * Report.pdf: Contains the report for the assignment, including an analysis of the implementation and the results obtained.
 * /src/Kmeans.java: Contains the implementation of the k-means algorithm in Java.
 * /src/Cluster.java: Contains the points assigned to each cluster
-* /src/Point.java: Provides the implementation of the concept of a point used in the k-means algorithm.
+* /src/Point.java: Provides the implementation of the concept of a point used in the k-means algorithm.<br>
 The use of these additional classes (Cluster, Point) helps to organize the code and improve its readability.
 
 ### Usage
